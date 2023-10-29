@@ -13,6 +13,7 @@
 
 - :school: I am taking a `M.Sc` at the [Norwegian University of Science and Technology]([https://cst.buaa.edu.cn/](https://www.ntnu.no/)) in [Cybersecurity and Datacommunication]([https://ev.buaa.edu.cn](https://www.ntnu.no/studier/mtkom)/)
 - :boom: You can look at my repos to get some idea of what I enjoy working with
+- :computer: I enjoy attending CTF's, where I mostly do pwn or web challenges. 
 - :email: Feel free to **reach out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Enebz&amp;color=EA4335&amp;style=flat-square)](mailto:magene2003@gmail.com)
 
 <br>
